@@ -44,22 +44,22 @@ ImageCompressor::compress('x.jpg','good','/path/output');
     </thead>
     <tbody>
         <tr>
-            <td>normal</td>
+            <td>normal (Less compression, better image quality)</td>
             <td>quality 85</td>
             <td>speed 3</td>
         </tr>
         <tr>
-            <td>good</td>
+            <td>good **Recommended** (Balanced compression & image quality)</td>
             <td>quality 80</td>
             <td>speed 1</td>
         </tr>
         <tr>
-            <td>high</td>
+            <td>high (More compression & less image quality)</td>
             <td>quality 70</td>
             <td>speed 1</td>
         </tr>
         <tr>
-            <td>extreme</td>
+            <td>extreme **Not Recommended**(Most compression & lowest image quality)</td>
             <td>quality 60</td>
             <td>speed 1</td>
         </tr>
