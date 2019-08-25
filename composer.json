@@ -1,0 +1,18 @@
+{
+    "name": "robyfirnandoyusuf/image-compressor",
+    "description": "Easily compress images using PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roby Firnando Yusuf",
+            "email": "robyfirnandoyusuf@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "ImageCompressor\\":"src/"
+        }
+    },
+    "require": {}
+}
