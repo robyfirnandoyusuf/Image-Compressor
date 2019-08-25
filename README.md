@@ -19,7 +19,7 @@ composer require robyfirnandoyusuf/image-compressor
 ## Usage
 ```php
 use ImageCompressor\ImageCompressor;
-ImageCompressor::compress('x.jpg','normal','/path/output');
+ImageCompressor::compress('x.jpg','good','/path/output');
 ``` 
 
 **parameter 1** : filename.jpg / .png
