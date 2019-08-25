@@ -5,6 +5,10 @@
 [![LICENSE](https://img.shields.io/github/license/robyfirnandoyusuf/Image-Compressor)](LICENSE)
 
 A PHP Package to Compress Image.
+
+## Requirements
+PHP cURL Module Enable
+
 ## Installation
 
 You can install the package via composer:
@@ -62,6 +66,14 @@ ImageCompressor::compress('x.jpg','normal','/path/output');
     </tbody>
 </table>
 
+## Tested On
+
+OS          : Ubuntu 16.04 LTS
+
+PHP Version : PHP 7.3.3
+
+Web Server  : Apache2
+
 ## Security
 
 If you discover any security related issues, please email nothingtocoding@gmail.com instead of using the issue tracker.
@@ -73,3 +85,7 @@ If you discover any security related issues, please email nothingtocoding@gmail.
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## Contact
+If you meet any problem when using ImageCompressor, file a issue or contact me directly.
+[Roby Firnando Yusuf](https://facebook.com/exploreourbrain)
