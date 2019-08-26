@@ -84,7 +84,7 @@ If you discover any security related issues, please email nothingtocoding@gmail.
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 ## Contact
 If you meet any problem when using ImageCompressor, file a issue or contact me directly.
